@@ -1,5 +1,5 @@
 # Productividad-basada-en-herramientas-tecnologicas
-Fase 3 y 4 de la materia productividad basada en herramientas tecnologicas
+
 
 SITUACION ACTUAL:
 La empresa tiene un equipo de ventas conformado por 3 ejecutivos, una de sus principales actividades es la atención de clientes vía telefónica, Skype o correo electrónico, el registro de su cartera de clientes o prospectos, lo lleva cada ejecutivo utiliza un archivo Excel para registrar la información, la situación es que la dirección comercial no tiene la información centralizada y recordemos que lo que no se controla no se puede medir.
