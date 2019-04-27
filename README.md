@@ -20,3 +20,17 @@ Para el desarrollo de la Solucion se utilizaran las siguientes herramientas:
 * MySQL 
 * Lenguaje de Programacion JAVA
 
+
+ECLIPSE
+Para poder revisar y/o realizar modificaciones al codigo, debera realizar lo sigueinte en el IDE EClipse
+
+File
+Import
+<General / Projects from Folder or Archive>
+
+Debemos seleccionar el directorio donde tenemos almacenado el proyecto. y Eclipse nos cargara en el IDE el codifo
+fuente del proyecto.
+
+
+
+
